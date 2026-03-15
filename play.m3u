@@ -226,14 +226,14 @@ http://u.vipl.one/high/hc6s5fzmde/1722.m3u8
 #EXTINF:0,EroLuxe Asian
 http://u.vipl.one/high/hc6s5fzmde/1723.m3u8
 #EXTGRP:18+
-#EXTINF:0,LIBERTY Эротика
+#EXTINF:0,LIBERTY Эротика group-title="18+"
 http://u.vipl.one/high/hc6s5fzmde/2016.m3u8
 #EXTGRP:Sport
-#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="Sport",SP - TENNIS PLUS 1 HD
 http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487688
 #EXTGRP:Sport
-#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="Sport",SP - TENNIS PLUS 2 HD
 http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487687
 #EXTGRP:Sport
-#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="Sport",SP - TENNIS PLUS 3 HD
 http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487686

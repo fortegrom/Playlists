@@ -1,4 +1,8 @@
 #EXTM3U     tvg-url="https://epg.iptvx.one/epg_noarch.xml.gz"
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/300761.png" group-title="News",RU| ДОЖДЬ HD
+http://exclusifott.pro:80/play/live.php?mac=A0:BB:3E:01:FC:6F&stream=300761&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/132470.png" group-title="News",RU| ДОЖДЬ ТВ
+http://exclusifott.pro:80/play/live.php?mac=A0:BB:3E:01:FC:6F&stream=132470&extension=ts
 #EXTINF:0,HUSTLER HD
 #EXTGRP:XXX Adult
 http://admin.onair8k.xyz:80/play/live.php?mac=00:1A:79:B1:29:F9&stream=773993&extension=ts&play_token=yLED06p9Or
@@ -491,3 +495,249 @@ http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487687
 #EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="Sport",SP - TENNIS PLUS 3 HD
 #EXTGRP:Sport
 http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487686
+#EXTINF:0,SKY SPORT F1
+#EXTGRP:Sport
+http://exm3u.extraott.com/live/6JG6WQTK/1RS973F7/102172.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/130/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5462/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/131/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5463/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/132/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5464/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Футбол HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5248/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Футбол
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5249/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Мяч HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5241/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Хоккей ТВ HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5243/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Старт Триумф HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5246/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Старт Баскет
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5250/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/215/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/255/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч ТВ
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5027/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,МАТЧ! Боец HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/7011/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,МАТЧ! Боец
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/230/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/133/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5261/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/204/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Арена
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5252/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Страна
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/229/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Матч! Планета
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/6062/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,M-1 Global TV
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5829/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,viju+ Sport HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5244/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,viju+ Sport
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/106/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/264/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/265/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/933/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/934/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Бокс ТВ
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/346/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,КХЛ Prime HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/206/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,КХЛ
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5154/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Конный мир HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5689/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Конный Мир
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/150/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Extreme Sports
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/5242/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Русский Экстрим
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/143/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Точка отрыва
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/6667/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,УДАР
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/17111/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Fast and Fun Box HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/240/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,FightBox HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/241/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Старт
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/248/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Мир Баскетбола
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/436/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,ТВ Спорт
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/478/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Танцуй! HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/7336/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Okko Спорт
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/7337/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Okko Прайм Спорт
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/7339/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Okko Футбол
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/7338/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Волейбол HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/7340/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Eurosport 1 HD (CEE)
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/14335/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Eurosport 2 HD (CEE)
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/14334/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21201/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX Be ON Edge live 1 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20870/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX Be ON Edge live 2 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20871/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX Be ON Edge live 3 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21208/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 1 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20881/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 2 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20882/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 3 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20883/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 4 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20884/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 5 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20885/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 6 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20886/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 7 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20887/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 8 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21206/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SportCast live 9 HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21207/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX Be ON Edge HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20872/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 1 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21213/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 2 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21214/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 3 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21216/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 4 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21217/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 5 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21218/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 6 Live 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21219/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,BOX SR Sport 4K HDR
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21215/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Clarity4K НФР Реслинг
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20910/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Oasis Фитнес HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/20968/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Oasis WWE in English HD
+#EXTGRP:RU Спорт
+http://am02.plinks-pile.su/21001/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Beinsports 1 HD
+#EXTGRP:Sport World
+http://am02.plinks-pile.su/6447/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Beinsports 2 HD
+#EXTGRP:Sport World
+http://am02.plinks-pile.su/6451/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Beinsports 3 HD
+#EXTGRP:Sport World
+http://am02.plinks-pile.su/6446/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Beinsports 4 HD
+#EXTGRP:Sport World
+http://am02.plinks-pile.su/6448/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Beinsports 5 HD
+#EXTGRP:Sport World
+http://am02.plinks-pile.su/6449/index.m3u8?token=VKdhnxDzK7EwEB
+#EXTINF:0,Q Sport HD [KG]
+#EXTGRP:Sport World
+http://am02.plinks-pile.su/24452/index.m3u8?token=VKdhnxDzK7EwEB

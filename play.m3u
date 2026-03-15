@@ -1,7 +1,7 @@
 #EXTM3U     tvg-url="https://epg.iptvx.one/epg_noarch.xml.gz"
 #EXTINF:0,HUSTLER HD
 #EXTGRP:XXX Adult
-http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9736
+http://admin.onair8k.xyz:80/play/live.php?mac=00:1A:79:B1:29:F9&stream=773993&extension=ts&play_token=yLED06p9Or
 #EXTINF:0,REDLIGHT HD
 #EXTGRP:XXX Adult
 http://am02.plinks-pile.su/904/index.m3u8?token=VKdhnxDzK7EwEB

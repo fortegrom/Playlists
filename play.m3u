@@ -163,7 +163,7 @@ http://am02.plinks-pile.su/29037/index.m3u8?token=VKdhnxDzK7EwEB
 http://am02.plinks-pile.su/29038/index.m3u8?token=VKdhnxDzK7EwEB
 #EXTINF:0,Dorcel XXX HD
 #EXTGRP:XXX Adult
-http://am02.plinks-pile.su/29039/index.m3u8?token=VKdhnxDzK7EwEB
+http://77.46.130.252:99/dorcel
 #EXTINF:0,Evil Angel HD
 #EXTGRP:XXX Adult
 http://am02.plinks-pile.su/29041/index.m3u8?token=VKdhnxDzK7EwEB
@@ -274,7 +274,7 @@ http://am02.plinks-pile.su/29085/index.m3u8?token=VKdhnxDzK7EwEB
 http://am02.plinks-pile.su/29086/index.m3u8?token=VKdhnxDzK7EwEB
 #EXTINF:0,Private TV HD
 #EXTGRP:XXX Adult
-http://am02.plinks-pile.su/19184/index.m3u8?token=VKdhnxDzK7EwEB
+http://77.46.130.252:99/private
 #EXTINF:0,Public Agent
 #EXTGRP:XXX Adult
 http://am02.plinks-pile.su/29093/index.m3u8?token=VKdhnxDzK7EwEB
@@ -488,7 +488,6 @@ http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487688
 #EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="Sport",SP - TENNIS PLUS 2 HD
 #EXTGRP:Sport
 http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487687
-#EXTGRP:Sport
 #EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/TENNIS-PLUS.png" group-title="Sport",SP - TENNIS PLUS 3 HD
 #EXTGRP:Sport
 http://89223-pierre.cdn-o2.me:80/3ad3499481/6nmzxf6d1c/487686

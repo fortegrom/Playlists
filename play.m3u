@@ -79,30 +79,10 @@ http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/440.m3u8
 http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/441.m3u8
 #EXTINF:-1 group-title="📰 Новости" tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Syria_tv_logo.webp",Syria TV [Сирия]
 http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/442.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Матч!
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/463.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-name="Матч! HD" tvg-id="match-tv",Матч! HD
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/464.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Арена
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/465.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Арена HD
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/466.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Игра
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/467.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Игра HD
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/469.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Страна
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/470.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="match-nash-sport",Матч! Страна HD
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/471.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Боец
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/472.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт",Матч! Боец HD
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/473.m3u8
 #EXTINF:-1 group-title="⚽️ Спорт",Матч! Премьер
 http://fzvonydf.megogo.xyz/iptv/CH325UB44M8YXM4F5CYQ3P5U/531/index.m3u8
 #EXTINF:-1 group-title="⚽️ Спорт" catchup="flussonic" catchup-days="1",Матч! Премьер HD
-http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/475.m3u8
+http://79.105.135.191:81/udp/239.4.10.83:2020
 #EXTINF:-1 group-title="⚽️ Спорт" tvg-name="Матч! Планета" tvg-id="match-planeta" catchup="flussonic" catchup-days="1",Матч! Планета
 http://woobl.ru/op/ZDJGemQyRnpRRzFoYVd3dWNuVT0/476.m3u8
 #EXTINF:-1 group-title="⚽️ Спорт",Матч! Футбол 1
